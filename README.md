@@ -9,7 +9,7 @@
 - **Engine:** Unreal Engine 5.x
 - **Languages:** C++, Blueprints (Hybrid approach)
 - **Subsystems:** AI (Behavior Trees/Blackboards), Physics, UI (UMG), Enhanced Input
-- **Tools:** Visual Studio, Git, Rider
+- **Tools:** Visual Studio, Git
 
 ---
 
