@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Bly4i 👋
+### Junior C++ / Unreal Engine Developer
 
-<!--
-**Bly4i/Bly4i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на создании игровой логики и систем на **C++** с глубокой интеграцией в **Blueprints**. Имею опыт работы с ключевыми подсистемами **Unreal Engine 5**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- **Engine:** Unreal Engine 5.x
+- **Languages:** C++, Blueprints (Hybrid approach)
+- **Subsystems:** AI (Behavior Trees/Blackboards), Physics, UI (UMG), Enhanced Input
+- **Tools:** Visual Studio, Git, Rider
+
+---
+
+### 🚀 Projects & Portfolio:
+- **[Sci-Fi Survival Shooter](https://github.com/Bly4i/UE)** — Технический прототип шутера от третьего лица. Реализованы системы стрельбы, квестовая логика и динамический спавн врагов. (C++ & Blueprints).
+
+---
+
+### 📫 How to reach me:
+- **Email:** eegor266@gmail.com
+- **Telegram:** [@blyonfire](https://t.me/blyonfire)
